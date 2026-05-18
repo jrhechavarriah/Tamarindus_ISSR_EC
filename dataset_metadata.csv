@@ -1,0 +1,18 @@
+Field,Description;
+Dataset Name,Tamarindus_ISSR_EC;
+Species,Tamarindus indica L.;
+Country,Ecuador;
+Citation,Hechavarria-Hernandez, J. R., P�rez-Almeida, I., & Vacacela Gomez, C. (2026). Ecuadorian Tamarind ISSR Dataset and FAIR-Compliant Python Workflow for Genetic Diversity Analysis.;
+Method,ISSR Genotyping;
+Number of Accessions,32;
+Accessions Included in Final Analysis,31;
+Excluded Accessions,TI-ECUM-016;
+Number of Loci,62;
+Markers Used,12 informative ISSR primers (UBC/HB series);
+"Original Study,""Sarmiento L, Pérez-Almeida I, Díaz B, Álvarez H, Viera W. Molecular marker-based characterization of Ecuadorian dry forest tamarind plus trees. Bioagro. 2017";"29(3):153-162."""
+"Matrix Type,""Binary (1=band present, 0=band absent)""";
+Initial Primers Screened,19;
+Informative Primers Used,12;
+Initial Loci Reported,84;
+Final Loci Used,62;
+"Curation Note,""The original publication reported 84 loci generated from 19 ISSR primers. Only 12 informative primers were retained for statistical analysis, resulting in a final binary matrix of 62 loci. This curated dataset corresponds to the 62 loci actually used in downstream analyses.""";

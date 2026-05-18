@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Ecuadorian Tamarind ISSR Dataset and FAIR-Compliant Python Workflow for Genetic Diversity Analysis"
+authors:
+  - family-names: Hechavarria-Hernandez
+    given-names: Jesus Rafael
+    orcid: https://orcid.org/0000-0002-9013-8665
+    affiliation: Universidad Ecotec, Research Department, Samborondón, Ecuador
+  - family-names: Pérez-Almeida
+    given-names: Iris
+    orcid: https://orcid.org/0000-0001-5929-892X
+    affiliation: Universidad Ecotec, Research Department, Samborondón, Ecuador
+  - family-names: Vacacela Gomez
+    given-names: Cristian
+    orcid: https://orcid.org/0000-0002-9248-9944
+    affiliation: University of Calabria, Department of Environmental Engineering (DIAm), Italy
+date-released: 2026-05-18
+license: CC-BY-4.0
+repository-code: https://github.com/yourorg/Ecuador_Tamarindus_ISSR_FairData
+keywords:
+  - ISSR
+  - Genetic Diversity
+  - Tamarindus indica
+  - Ecuador
+  - FAIR data
+  - Reproducible workflow

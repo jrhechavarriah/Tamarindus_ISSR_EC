@@ -1,0 +1,13 @@
+Field,Description,Type
+Accession Code,Unique ID for tamarind accession,String
+Province,Collection province of sample,String
+Source,Source institution or collector,String
+Locus,Unique locus identifier in the ISSR matrix,String
+Primer Name,Name of ISSR primer,String
+Sequence,Primer sequence (5'-3'),String
+Ta (°C),Annealing temperature of primer,Float
+Total Bands,Number of amplified bands,Integer
+Polymorphic Bands,Number of polymorphic bands,Integer
+% Polymorphism,Percentage of polymorphic bands,Float
+Mean PIC,Average Polymorphic Information Content,Float
+MI,Marker Index,Float
