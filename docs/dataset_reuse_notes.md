@@ -21,4 +21,8 @@ The data in this repository are derived from the following publication:
 
 ## Acknowledgment
 
-Please cite the original publication and this dataset if used in future studies or derivative work.
+If you use this dataset or its scripts, please cite:
+
+Hechavarria-Hernandez, J. R., Pérez-Almeida, I., & Vacacela Gomez, C. (2026). FAIR-compliant ISSR dataset and reproducible workflow for genetic diversity analysis of Ecuadorian *Tamarindus indica*. Zenodo. https://doi.org/10.5281/zenodo.20276986
+
+GitHub repository: https://github.com/jrhechavarriah/Tamarindus_ISSR_EC

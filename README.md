@@ -10,7 +10,10 @@ The dataset was derived from the article:
 
 When using this dataset or its associated scripts, please cite the following:
 
-Hechavarria-Hernandez, J. R., Pérez-Almeida, I., & Vacacela Gomez, C. (2026). Ecuadorian Tamarind ISSR Dataset and FAIR-Compliant Python Workflow for Genetic Diversity Analysis. Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+Hechavarria-Hernandez, J. R., Pérez-Almeida, I., & Vacacela Gomez, C. (2026).
+Tamarindus_ISSR_EC: Curated ISSR dataset and reproducible workflow for genetic diversity analysis of Tamarindus indica in Ecuador [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20276986
+
+GitHub Repository: https://github.com/jrhechavarriah/Tamarindus_ISSR_EC
 
 ## 👥 Authors
 

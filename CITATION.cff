@@ -1,7 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Ecuadorian Tamarind ISSR Dataset and FAIR-Compliant Python Workflow for Genetic Diversity Analysis"
+title: Tamarindus_ISSR_EC: Curated ISSR dataset and reproducible workflow for genetic diversity analysis of Tamarindus indica in Ecuador [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20276986
+
+Hechavarria-Hernandez, J. R., Pérez-Almeida, I., & Vacacela Gomez, C. (2026).
+Tamarindus_ISSR_EC: Curated ISSR dataset and reproducible workflow for genetic diversity analysis of Tamarindus indica in Ecuador [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20276986
+
 authors:
+
   - family-names: Hechavarria-Hernandez
     given-names: Jesus Rafael
     orcid: https://orcid.org/0000-0002-9013-8665
@@ -16,7 +21,7 @@ authors:
     affiliation: University of Calabria, Department of Environmental Engineering (DIAm), Italy
 date-released: 2026-05-18
 license: CC-BY-4.0
-repository-code: https://github.com/yourorg/Ecuador_Tamarindus_ISSR_FairData
+repository-code: https://github.com/jrhechavarriah/Tamarindus_ISSR_EC
 keywords:
   - ISSR
   - Genetic Diversity
@@ -24,3 +29,4 @@ keywords:
   - Ecuador
   - FAIR data
   - Reproducible workflow
+
