@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a derived and curated binary matrix of ISSR markers from 32 genotypes of Tamarindus indica L., along with a fully reproducible Python workflow for genetic diversity and multivariate analysis.
+This repository contains a curated binary ISSR matrix comprising 62 informative loci derived from 12 informative ISSR primers and representing 32 elite Tamarindus indica L. genotypes collected in Ecuador. The repository also provides a fully reproducible Python workflow for genetic diversity assessment, multivariate analyses, visualization, and FAIR-compliant data reuse.
 
 The dataset was derived from the article:
 
@@ -11,7 +11,7 @@ The dataset was derived from the article:
 When using this dataset or its associated scripts, please cite the following:
 
 Hechavarria-Hernandez, J. R., Pérez-Almeida, I., & Vacacela Gomez, C. (2026).
-Tamarindus_ISSR_EC: Curated ISSR dataset and reproducible workflow for genetic diversity analysis of Tamarindus indica in Ecuador [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20276986
+Tamarindus_ISSR_EC: FAIR-curated ISSR dataset and reproducible computational workflow for genetic diversity analysis of Tamarindus indica in Ecuador [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20276986
 
 GitHub Repository: https://github.com/jrhechavarriah/Tamarindus_ISSR_EC
 
