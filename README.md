@@ -55,8 +55,9 @@ Tamarindus_ISSR_EC/
 │   └── heatmap_issr_matrix.png
 │
 ├── metadata/                # Marker and genotype metadata
+│   ├── genotype_identifier_mapping.csv
 │   ├── genotype_metadata.csv
-│   ├── primers_metadata.csv
+│   └── primers_metadata.csv
 │
 ├── scripts/                 # Computational scripts
 │   ├── 01_load_issr_data.py
