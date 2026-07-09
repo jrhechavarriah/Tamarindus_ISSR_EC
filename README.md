@@ -1,4 +1,6 @@
-# Curated ISSR Dataset and Reproducible Python Workflow for Tamarindus indica L.
+# Tamarindus_ISSR_EC
+
+## FAIR-curated ISSR dataset and reproducible computational workflow for genetic diversity analysis of Tamarindus indica in Ecuador
 
 ## Description
 
