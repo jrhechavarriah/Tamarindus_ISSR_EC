@@ -24,7 +24,7 @@ required_files = [
     "metadata/genotype_metadata.csv",
     "metadata/primers_metadata.csv",
 
-    "notebooks/Tamarindus_ISSR_Analysis.ipynb",
+    "notebooks/Tamarindus_ISSR_EC.ipynb",
 
     "processed/dendrogram_coordinates.csv",
     "processed/distance_matrix_jaccard.csv",

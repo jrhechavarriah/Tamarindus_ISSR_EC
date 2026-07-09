@@ -1,0 +1,16 @@
+{
+  "dataset_name": "Tamarindus_ISSR_EC",
+  "title": "FAIR-curated binary ISSR dataset and reproducible computational workflow for genetic diversity analysis of Tamarindus indica in Ecuador",
+  "species": "Tamarindus indica L.",
+  "country": "Ecuador",
+  "repository": "Zenodo",
+  "doi": "10.5281/zenodo.20276986",
+  "github": "https://github.com/jrhechavarriah/Tamarindus_ISSR_EC",
+  "genotypes": 32,
+  "informative_primers": 12,
+  "curated_loci": 62,
+  "marker_system": "ISSR",
+  "matrix_type": "Binary (presence/absence)",
+  "workflow": "Python 3",
+  "license": "CC BY 4.0"
+}

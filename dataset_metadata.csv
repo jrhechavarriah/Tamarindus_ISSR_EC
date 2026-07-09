@@ -1,18 +1,27 @@
-Field,Description;
-Dataset Name,Tamarindus_ISSR_EC;
-Species,Tamarindus indica L.;
-Country,Ecuador;
-Citation,Hechavarria-Hernandez, J. R., P�rez-Almeida, I., & Vacacela Gomez, C. (2026). Tamarindus_ISSR_EC: Curated ISSR dataset and reproducible workflow for genetic diversity analysis of Tamarindus indica in Ecuador [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20276986;
-Method,ISSR Genotyping;
-Number of Accessions,32;
-Accessions Included in Final Analysis,31;
-Excluded Accessions,TI-ECUM-016;
-Number of Loci,62;
-Markers Used,12 informative ISSR primers (UBC/HB series);
-"Original Study,""Sarmiento L, Pérez-Almeida I, Díaz B, Álvarez H, Viera W. Molecular marker-based characterization of Ecuadorian dry forest tamarind plus trees. Bioagro. 2017";"29(3):153-162."""
-"Matrix Type,""Binary (1=band present, 0=band absent)""";
-Initial Primers Screened,19;
-Informative Primers Used,12;
-Initial Loci Reported,84;
-Final Loci Used,62;
-"Curation Note,""The original publication reported 84 loci generated from 19 ISSR primers. Only 12 informative primers were retained for statistical analysis, resulting in a final binary matrix of 62 loci. This curated dataset corresponds to the 62 loci actually used in downstream analyses.""";
+Field,Value
+Dataset_Name,Tamarindus_ISSR_EC
+Dataset_Title,FAIR-curated binary ISSR dataset and reproducible computational workflow for genetic diversity analysis of Tamarindus indica in Ecuador
+Species,Tamarindus indica L.
+Country,Ecuador
+Repository,Zenodo
+Repository_DOI,https://doi.org/10.5281/zenodo.20276986
+GitHub,https://github.com/jrhechavarriah/Tamarindus_ISSR_EC
+Dataset_Citation,"Hechavarria-Hernandez JR, Pérez-Almeida I, Vacacela Gomez C. Tamarindus_ISSR_EC: FAIR-curated binary ISSR dataset and reproducible computational workflow for genetic diversity analysis of Tamarindus indica in Ecuador [data set]. Zenodo; 2026. https://doi.org/10.5281/zenodo.20276986"
+Original_Publication,"Sarmiento L, Pérez-Almeida I, Díaz B, Álvarez H, Viera W. Molecular marker-based characterization of Ecuadorian dry forest tamarind plus trees. Bioagro. 2017;29(3):153-162."
+Marker_System,Inter-Simple Sequence Repeat (ISSR)
+Matrix_Type,"Binary (1 = presence, 0 = absence)"
+Number_of_Genotypes,32
+Number_of_Informative_Priners,12
+Number_of_Curated_Loci,62
+Original_Priners_Screened,19
+Original_Loci_Reported,84
+Software,Python 3
+Main_Libraries,NumPy; pandas; SciPy; scikit-learn; matplotlib; umap-learn
+License,CC BY 4.0
+Workflow,Fully reproducible
+Notebook,Tamarindus_ISSR_EC.ipynb
+Execution_Script,run_all.sh
+Description,"Curated FAIR-compliant repository integrating binary ISSR data, harmonized metadata, reproducible Python workflows, publication-quality figures, and supporting documentation for genetic diversity analysis."
+Identifier_Mapping_File,metadata/genotype_identifier_mapping.csv
+Canonical_Genotype_ID,genotype_code
+Working_Identifiers,matrix_column; short_id
